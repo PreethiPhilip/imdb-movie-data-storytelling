@@ -1,8 +1,38 @@
-# IMDb-Movie-Data-Storytelling
-This project was completed as part of the Masterschool data analysis program.
-### Introduction
-Spectacular Studios collects data on movie reviews and audience responses for thousands of movies that have been released in the past several years.  As a data science consultant, you have been tasked to provide insights into a problem that matters to the company and on what they can take away from it. Your role is to define the problem that is compelling enough for the executive team to warrant taking action. From there, your role is to develop the storyline of what you can expect the data to tell you from your analysis. The executive team would like for you to walk through your recommendations and risks to the analysis that might affect your proposed action items. Your job is to provide their team with the final presentation, including an executive summary of key next steps.
+## 🎬 IMDB Movie Data Analysis
+### 🔍 Project Overview
+This project analyzes movie data to uncover insights into what makes a movie successful. The focus is on identifying trends in genres, revenue, ratings, and other key variables using Python and data visualization techniques.
 
-Your role will be to develop a final presentation that is roughly 10-15 slides and provide a detailed analysis that digs into potential limitations and biases of the dataset you’re working with.
-### Project Overview
-In this project, you will apply the skills you have learned in structuring a data story. You will have the ability to define your own problem statement, the analyses you would conduct to solve the objective and outline a set of potential solutions/actionable next steps for the target audience. You will combine the ghost deck and their analyses to provide a final recommendation. You will also need to identify the limitations and biases in data that affect the recommendations you provide.
+### 📊 Tools & Technologies
+* Python: Pandas, NumPy, Matplotlib, Seaborn
+
+* Jupyter Notebook
+
+* Exploratory Data Analysis (EDA)
+
+### 🎯 Goals
+* Discover patterns and trends in movie ratings and revenues.
+
+* Identify which factors (e.g., budget, genre, cast) correlate with high ratings.
+
+* Visualize the data to communicate insights effectively.
+
+### 📁 Dataset
+Source: IMDB Movie Dataset on Kaggle
+
+Includes: movie titles, genres, budgets, revenues, directors, and user ratings.
+
+### 📈 Key Findings
+* Movies with higher budgets tend to have higher revenue, but not always better ratings.
+
+* Certain genres (like Drama and Thriller) are more likely to receive critical acclaim.
+
+* The presence of high-profile directors or actors can impact revenue but not necessarily ratings.
+  ### 📚 What I Learned
+* How to clean and preprocess a real-world dataset.
+
+* Applying statistical and visual analysis to derive actionable insights.
+
+* Communicating results clearly through plots and narratives.
+
+
+
